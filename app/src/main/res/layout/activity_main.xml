@@ -85,7 +85,7 @@
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content"
                 android:textColor="@android:color/white"
-                android:text="22 años"
+                android:text="28 años"
                 android:textSize="24sp"
                 android:layout_gravity="right"
                 android:layout_marginRight="25dp"/>
